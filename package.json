@@ -3,10 +3,10 @@
   "version": "2.2",
   "description": "Robust AFK bot for Minecraft servers with infinite uptime.",
   "main": "index.js",
-  "scripts": { "audit": "npm audit --audit-level=high"
+  "scripts": { "scripts": {
+  "start": "node index.js"
+}
 
-    "start": "node index.js",
-    "test": "node --check index.js"
   },
   "author": "Lamgerr",
   "license": "MIT",
