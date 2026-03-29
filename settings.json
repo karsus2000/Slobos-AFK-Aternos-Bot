@@ -32,7 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "Jestem tylko botem i sprawiam że ten serwer działa",
-        "Jestem AFK",
+        "Jestem AFK"
+      
       ]
     },
     "chat-log": true,
