@@ -8,9 +8,6 @@ const config = require("./settings.json");
 const express = require("express");
 const http = require("http");
 const https = require("https");
-"scripts": {
-  "start": "node index.js"
-}
 
 // ============================================================
 // EXPRESS SERVER - Keep Render/Aternos alive
