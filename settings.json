@@ -29,10 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 10,
       "messages": [
         "Jestem tylko botem i sprawiam że ten serwer działa",
-        "Jestem AFK"
       
       ]
     },
@@ -70,7 +69,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": false
+    "place-night": true
   },
   "discord": {
     "enabled": false,
