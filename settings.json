@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Snifer_Survival_.aternos.me",
+    "ip": "Snifer_Survival_.aternos.me:33157",
     "port": 33157,
     "version": "1.21.11",
     "try-creative": false
