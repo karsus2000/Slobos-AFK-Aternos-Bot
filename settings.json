@@ -8,11 +8,11 @@
   "server": {
     "ip": "Snifer_Survival_.aternos.me:33157",
     "port": 33157,
-    "version": "1.21.11",
+    "version": false,
     "try-creative": false
   },
   "position": {
-    "enabled": true,
+    "enabled": false,
     "x": 0,
     "y": 100,
     "z": 0
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "haslo123"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Jestem tylko botem i sprawiam że ten serwer działa",
+        "Jestem AFK",
       ]
     },
     "chat-log": true,
@@ -58,9 +57,9 @@
     }
   },
   "modules": {
-    "avoidMobs": true,
+    "avoidMobs": false,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
