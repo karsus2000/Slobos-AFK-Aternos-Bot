@@ -69,7 +69,7 @@
   },
   "beds": {
     "pick-up-day": false,
-    "place-night": false
+    "place-night": true
   
   },
   "discord": {
@@ -84,5 +84,4 @@
   "chat": {
     "respond": true
   }
-  
 }
